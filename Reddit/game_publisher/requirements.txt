@@ -1,0 +1,2 @@
+praw~=7.1.4
+beautifulsoup4~=4.9.3
